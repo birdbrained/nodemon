@@ -1,5 +1,6 @@
 {
   "name": "nodemon",
+  "version": "0.0.1",
   "homepage": "http://nodemon.io",
   "author": {
     "name": "Remy Sharp",
